@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **cybersecurity/job guidance.**
 
-- 👨‍💻 All of my projects are available at [@su6osu](@su6osu)
+- 👨‍💻 All of my projects are available at [@su6osu](https://github.com/su6osu?tab=repositories)
 
-- 📝 I regularly write articles on [linkedin.com/su6o](linkedin.com/su6o)
+- 📝 I regularly write articles on [linkedin.com/su6o](https://linkedin.com/in/su6o)
 
 - 💬 Ask me about **cybersecurity and web-dev**
 

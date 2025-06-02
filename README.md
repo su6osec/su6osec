@@ -73,13 +73,13 @@
 # 📊 Developer Stats:
 <br clear="both">
 
+![GitHub Snake Dark](https://raw.githubusercontent.com/su6osec/su6osec/output/github-snake-dark.svg)
+
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=su6osec&theme=github-compact" />
   <img src="https://streak-stats.demolab.com?user=su6osec&locale=en&mode=daily&hide_border=true&border_radius=5&theme=default" height="150" align="center"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=su6osec&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&hide_border=true" height="150" align="center" alt="languages graph" />
 </div>
-
-![Snake Game Workflow](https://github.com/<your-username>/<your-repo>/actions/workflows/<filename>.yml/badge.svg)
 
 ###
 

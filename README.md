@@ -79,6 +79,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=su6osec&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&hide_border=true" height="150" align="center" alt="languages graph" />
 </div>
 
+![Snake Game Workflow](https://github.com/<your-username>/<your-repo>/actions/workflows/<filename>.yml/badge.svg)
+
 ###
 
 ## ❤️ Support Me

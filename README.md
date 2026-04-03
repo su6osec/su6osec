@@ -26,13 +26,18 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="cyber" width="220"/>
+    <td width="50%">
+      <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=su6osec&theme=darkdim&no-frame=true&row=2&column=5&margin-w=4&margin-h=4" width="100%" alt="trophy"/>
+      </p>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=su6osec&theme=radical&hide_border=true&show_icons=true&count_private=true&icon_color=F7A41D" width="210" alt="stats"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su6osec&theme=radical&hide_border=true&layout=compact&langs_count=6" width="210" alt="langs"/>
-      <img src="https://streak-stats.demolab.com?user=su6osec&theme=dark&hide_border=true&border_radius=12&fire=F7A41D&ring=00FF88&sideLabels=F7A41D" width="210" alt="streak"/>
+    <td width="50%">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=su6osec&theme=radical&hide_border=true&show_icons=true&count_private=true&icon_color=F7A41D&card_width=280" width="100%" alt="stats"/>
+      </p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su6osec&theme=radical&hide_border=true&layout=compact&langs_count=6&card_width=280" width="100%" alt="langs"/>
+      </p>
     </td>
   </tr>
 </table>

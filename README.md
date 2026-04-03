@@ -5,30 +5,38 @@
 
 <p align="center">
   <a href="https://github.com/su6osec">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1622&height=220&section=header&reversal=false&text=SU6OSEC&desc=Cybersecurity%20Researcher%20%26%20Bug%20Bounty%20Hunter&textColor=F7A41D&descSize=16&fontSize=52&animation=twinkling&fontAlign=50&descAlign=65&textAlign=50&fontAlignY=40%2C63&descAlignY=65" alt="banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0B1622:1a1a2e:0B1622&height=200&section=header&reversal=false&text=SU6OSEC&desc=Offensive%20Security%20%7C%20Bug%20Bounty%20%7C%20Open%20Source&textColor=00FF88&descSize=15&fontSize=56&animation=twinkling&fontAlign=50&descAlign=70&textAlign=50&fontAlignY=38%2C68&descAlignY=70&stroke=F7A41D&strokeWidth=0.5" alt="banner"/>
   </a>
 </p>
 
 <!-- typing svg -->
 <p align="center">
   <a href="https://github.com/su6osec">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF88&center=true&width=580&lines=Web+App+Security+%7C+Recon+%7C+Penetration+Testing;Building+Open-Source+Security+Tools;Automating+the+Offense" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&width=620&lines=%E2%9A%A1+Web+App+Security+%E2%80%A2+Recon+%E2%80%A2+Pen+Testing;%F0%9F%9B%A1%EF%B8%8F+Building+Open-Source+Security+Tools;%F0%9F%94%93+Automating+the+Offense%2C+Securing+the+Future" alt="Typing" />
   </a>
 </p>
 
 <br/>
 
-<!-- quick stats badges -->
+<!-- stat pills -->
 <p align="center">
-  <a href="https://github.com/su6osec?tab=repositories">
-    <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_Tools%20Built-9-A855F7?style=for-the-badge&logoColor=white&labelColor=0B1622&color=9333ea" alt="tools"/>
-  </a>
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D_India-%F0%9F%87%AE%F0%9F%87%B3-F7A41D?style=for-the-badge&labelColor=0B1622&color=f59e0b" alt="location"/>
-  <img src="https://img.shields.io/badge/%E2%9A%A1_Status-Hunting%20Bugs-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=0B1622&color=22c55e" alt="status"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F+Security+Tools-9-A855F7?style=for-the-badge&logoColor=white&labelColor=111827" alt="tools"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D+India-%F0%9F%87%AE%F0%9F%87%B3-F7A41D?style=for-the-badge&logoColor=white&labelColor=111827" alt="location"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF+Status-Hunting-Bugs-22c55e?style=for-the-badge&logo=github&logoColor=black&labelColor=111827&color=16a34a" alt="status"/>
+</p>
+
+<!-- pill row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Open-Source-00FF88?style=for-the-badge&logo=opensourceinitiative&logoColor=black&labelColor=111827&color=059669" alt="oss"/>
+  <img src="https://img.shields.io/badge/Bug-Bounty-FF4554?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=111827" alt="bounty"/>
+  <img src="https://img.shields.io/badge/CTF-Player-A855F7?style=for-the-badge&logoColor=white&labelColor=111827" alt="ctf"/>
+  <img src="https://img.shields.io/badge/OSINT-0EA5E9?style=for-the-badge&logoColor=white&labelColor=111827&color=0284c7" alt="osint"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/su6osec"><img src="https://visitors-badge-demo.onrender.com/api?visitor-badge&label=profile+views&left_color=%230B1622&right_color=%23F7A41D&right_text=visitors" alt="views"/></a>
+  <a href="https://github.com/su6osec">
+    <img src="https://komarev.com/ghpvc/?username=su6osec&label=PROFILE+VIEWS&color=F7A41D&style=flat-square&abbreviated=true" alt="views"/>
+  </a>
 </p>
 
 ---

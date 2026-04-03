@@ -25,5 +25,5 @@
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xvOG93YWR6ZXZlcnJ4eXl6eXl6eXl6eXl6eXl6eXl6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCcdNniyf0jSg/giphy.gif" alt="hacker" width="340"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235292365-2d3ef978-e1e5-41ce-b670-dca4f2fcb7f7.gif" alt="hacker" width="320"/>
 </p>

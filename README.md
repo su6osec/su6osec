@@ -24,20 +24,6 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=su6osec&theme=darkdim&no-frame=true&row=2&column=5&margin-w=4&margin-h=4" width="100%" alt="trophy"/>
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=su6osec&theme=radical&hide_border=true&show_icons=true&count_private=true&icon_color=F7A41D&card_width=280" width="100%" alt="stats"/>
-      </p>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su6osec&theme=radical&hide_border=true&layout=compact&langs_count=6&card_width=280" width="100%" alt="langs"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=footer&reversal=false&text=Thanks%20for%20Visiting&desc=Stay%20Curious%20%E2%80%A2%20Keep%20Hacking&textColor=00FF88&descColor=F7A41D&descSize=16&fontSize=36&animation=twinkling&fontAlign=50&descAlign=68&textAlign=50&fontAlignY=35%2C65" alt="footer"/>
+</p>

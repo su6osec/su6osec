@@ -25,5 +25,5 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235292365-2d3ef978-e1e5-41ce-b670-dca4f2fcb7f7.gif" alt="hacker" width="320"/>
+  <img src="https://raw.githubusercontent.com/su6osec/su6osec/main/hacker-banner.png" alt="hacker" width="100%"/>
 </p>

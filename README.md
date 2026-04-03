@@ -24,6 +24,17 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=footer&reversal=false&text=Thanks%20for%20Visiting&desc=Stay%20Curious%20%E2%80%A2%20Keep%20Hacking&textColor=00FF88&descColor=F7A41D&descSize=16&fontSize=36&animation=twinkling&fontAlign=50&descAlign=68&textAlign=50&fontAlignY=35%2C65" alt="footer"/>
-</p>
+```
+ ╔══════════════════════════════════════════════╗
+ ║                                              ║
+ ║   ██╗  ██╗███████╗ ██████╗  ██████╗ ██████╗   ║
+ ║   ██║  ██║██╔════╝██╔═══██╗██╔═══██╗██╔══██╗  ║
+ ║   ███████║█████╗  ██║   ██║██║   ██║██████╔╝  ║
+ ║   ██╔══██║██╔══╝  ██║   ██║██║   ██║██╔══██╗  ║
+ ║   ██║  ██║███████╗╚██████╔╝╚██████╔╝██████╔╝  ║
+ ║   ╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝   ║
+ ║                                              ║
+ ║     Stay Curious  •  Keep Hacking  🛡️          ║
+ ║                                              ║
+ ╚══════════════════════════════════════════════╝
+```

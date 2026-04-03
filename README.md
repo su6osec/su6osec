@@ -24,6 +24,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=su6osec&theme=dark&hide_border=true&border_radius=12&fire=F7A41D&ring=00FF88&sideLabels=F7A41D" alt="streak"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="cyber" width="220"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=su6osec&theme=radical&hide_border=true&show_icons=true&count_private=true&icon_color=F7A41D" width="210" alt="stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su6osec&theme=radical&hide_border=true&layout=compact&langs_count=6" width="210" alt="langs"/>
+      <img src="https://streak-stats.demolab.com?user=su6osec&theme=dark&hide_border=true&border_radius=12&fire=F7A41D&ring=00FF88&sideLabels=F7A41D" width="210" alt="streak"/>
+    </td>
+  </tr>
+</table>

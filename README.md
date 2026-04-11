@@ -6,13 +6,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/su6osec)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://su6osec.medium.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/su6osec)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/su6osec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/su6osec) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://su6osec.medium.com) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/su6osec) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/su6osec)
 
-![Profile Views](https://komarev.com/ghpvc/?username=su6osec&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/su6osec?style=for-the-badge&color=6366f1&labelColor=1e1b4b&label=Followers)](https://github.com/su6osec?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=su6osec&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS) [![GitHub followers](https://img.shields.io/github/followers/su6osec?style=for-the-badge&color=6366f1&labelColor=1e1b4b&label=Followers)](https://github.com/su6osec?tab=followers)
 
 </div>
 

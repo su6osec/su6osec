@@ -104,9 +104,9 @@ nyx scan -d example.com --all
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=su6osec&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&border_color=6366f1&title_color=6366f1&icon_color=818cf8&text_color=e2e8f0&bg_color=0f0f1a&ring_color=6366f1&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=su6osec&theme=tokyonight" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su6osec&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&border_color=6366f1&title_color=6366f1&text_color=e2e8f0&bg_color=0f0f1a&langs_count=6" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=su6osec&theme=tokyonight" height="165"/>
 
 <br/><br/>
 

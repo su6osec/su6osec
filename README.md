@@ -137,7 +137,7 @@ nyx scan -d example.com --all
 I'm always open to discussing security research, tool ideas, or potential collaborations.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/su6osec)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:su6osec@gmail.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshu.infosec@gmail.com)
 [![Medium](https://img.shields.io/badge/Read_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://su6osec.medium.com)
 
 <br/>

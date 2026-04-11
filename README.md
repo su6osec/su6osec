@@ -116,9 +116,7 @@ High-performance CLI tools and daemon monitors in **Go** — interface-based, pi
 
 `bug-bounty` `go` `infosec` `osint`
 
-```bash
-go install github.com/su6osec/graphite@latest
-```
+`go install github.com/su6osec/graphite@latest`
 
 <sub>Updated Apr 2026</sub>
 

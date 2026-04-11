@@ -24,7 +24,7 @@
 
 <table width="100%">
 <tr>
-<td width="56%" valign="middle">
+<td valign="middle">
 
 ## 👨‍💻 &nbsp;About Me
 
@@ -44,13 +44,6 @@ I build high-performance offensive security tools in **Go** and **Python** — f
 </table>
 
 </td>
-<td width="44%" valign="middle" align="right">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-     alt="Coding"
-     width="380"
-     height="240" />
-
 </td>
 </tr>
 </table>

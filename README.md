@@ -122,16 +122,6 @@ nyx scan -d example.com --all
 
 <br/>
 
-## Certifications & Platforms
-
-<div align="left">
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/su6osec.png)](https://tryhackme.com/p/su6osec)
-
-</div>
-
-<br/>
-
 ## Let's Connect
 
 I'm always open to discussing security research, tool ideas, or potential collaborations.

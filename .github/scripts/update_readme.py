@@ -146,11 +146,11 @@ def lang_badge(lang: str | None) -> str:
 
 def repo_card(repo: dict, is_graphql: bool = False) -> str:
     """Render a single repo card (one table cell)."""
-    name  = repo["name"] if is_graphql else repo["name"]
-    url   = repo.get("url") or f"https://github.com/{USERNAME}/{name}"
-    desc  = (repo.get("description") or "").strip() or "_No description yet._"
+    name = repo["name"]
 
     if is_graphql:
+        # GraphQL returns the HTML URL directly in the `url` field
+        url   = repo.get("url") or f"https://github.com/{USERNAME}/{name}"
         lang  = (repo.get("primaryLanguage") or {}).get("name")
         stars = repo.get("stargazerCount", 0)
         topics = [
@@ -158,9 +158,13 @@ def repo_card(repo: dict, is_graphql: bool = False) -> str:
             for n in (repo.get("repositoryTopics") or {}).get("nodes", [])
         ]
     else:
+        # REST API: `html_url` is the browser URL; `url` is the API endpoint
+        url   = repo.get("html_url") or f"https://github.com/{USERNAME}/{name}"
         lang  = repo.get("language")
         stars = repo.get("stargazers_count", 0)
         topics = repo.get("topics", [])
+
+    desc = (repo.get("description") or "").strip() or "_No description yet._"
 
     updated_raw = repo.get("updatedAt") or repo.get("updated_at") or ""
     try:
@@ -213,7 +217,7 @@ def build_projects_section(repos: list[dict], is_graphql: bool) -> str:
     for i in range(0, len(repos), 2):
         left  = repo_card(repos[i], is_graphql)
         right = repo_card(repos[i + 1], is_graphql) if i + 1 < len(repos) else ""
-        right_cell = f"\n{right}\n" if right else ""
+        right_cell = f"\n\n{right}\n\n" if right else ""
         rows.append(
             f"<tr>\n"
             f"<td width=\"50%\" valign=\"top\">\n\n{left}\n\n</td>\n"

@@ -38,7 +38,7 @@ Security researcher focused on **web application security**, **recon automation*
 <tr>
 <td width="50%" valign="top">
 
-### [portfolio](https://api.github.com/repos/su6osec/portfolio)
+### [portfolio](https://github.com/su6osec/portfolio)
 _No description yet._
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Stars](https://img.shields.io/github/stars/su6osec/portfolio?style=flat-square&color=6366f1) ![License](https://img.shields.io/github/license/su6osec/portfolio?style=flat-square&color=6366f1)
@@ -51,7 +51,8 @@ npm install  # see repo for details
 
 </td>
 <td width="50%" valign="top">
-### [graphite](https://api.github.com/repos/su6osec/graphite)
+
+### [graphite](https://github.com/su6osec/graphite)
 ⚡ Fast subdomain recon. 39 OSINT sources. Zero false positives.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Stars](https://img.shields.io/github/stars/su6osec/graphite?style=flat-square&color=6366f1) ![License](https://img.shields.io/github/license/su6osec/graphite?style=flat-square&color=6366f1)
@@ -63,6 +64,7 @@ go install github.com/su6osec/graphite@latest
 ```
 
 <sub>Updated Apr 2026</sub>
+
 </td>
 </tr>
 </table>

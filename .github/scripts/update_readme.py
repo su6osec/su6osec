@@ -121,16 +121,14 @@ def file_exists(repo: str, path: str) -> bool:
 
 
 def install_snippet(repo: str, lang: str | None) -> str:
-    """Return a short install/quickstart code block for the repo."""
+    """Return a short install/quickstart inline code line for the repo."""
     if lang == "Go" and file_exists(repo, "go.mod"):
-        return f"```bash\ngo install github.com/{USERNAME}/{repo}@latest\n```"
+        return f"`go install github.com/{USERNAME}/{repo}@latest`"
     if file_exists(repo, "package.json"):
-        return f"```bash\nnpm install  # see repo for details\n```"
+        return f"`npm install`"
     if file_exists(repo, "requirements.txt") or file_exists(repo, "setup.py"):
-        return f"```bash\npip install -r requirements.txt\n```"
-    return (
-        f"```bash\ngit clone https://github.com/{USERNAME}/{repo}\n```"
-    )
+        return f"`pip install -r requirements.txt`"
+    return f"`git clone https://github.com/{USERNAME}/{repo}`"
 
 
 # ── Markdown generation ──────────────────────────────────────────────────────

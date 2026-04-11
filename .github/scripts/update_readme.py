@@ -17,9 +17,11 @@ import json
 import requests
 from datetime import datetime, timezone
 
-USERNAME = "su6osec"
-TOKEN    = os.environ["GITHUB_TOKEN"]
-MAX_SHOW = 4
+USERNAME  = "su6osec"
+TOKEN     = os.environ["GITHUB_TOKEN"]
+MAX_SHOW  = 1
+# Repos that should never appear in Featured Projects
+EXCLUDE   = {USERNAME, "portfolio"}
 
 HEADERS = {
     "Authorization": f"Bearer {TOKEN}",
@@ -102,7 +104,7 @@ def get_top_repos() -> list[dict]:
     resp.raise_for_status()
     repos = [
         r for r in resp.json()
-        if not r["fork"] and r["name"] != USERNAME
+        if not r["fork"] and r["name"] not in EXCLUDE
     ]
     # Sort: stars DESC, then pushed DESC
     repos.sort(key=lambda r: (-r["stargazers_count"], r["pushed_at"]), reverse=False)
@@ -257,7 +259,7 @@ def patch_readme(original: str, new_section: str) -> str:
 def main():
     # 1. Try pinned repos first
     pinned = get_pinned_repos()
-    pinned = [r for r in pinned if not r.get("isArchived")]
+    pinned = [r for r in pinned if not r.get("isArchived") and r.get("name") not in EXCLUDE]
     is_gql = True
 
     if pinned:

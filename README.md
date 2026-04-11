@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Deepanshu%20Chauhan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Security%20Researcher%20%C2%B7%20Bug%20Bounty%20Hunter%20%C2%B7%20Tool%20Builder&descAlignY=58&descSize=18&descColor=c7d2fe" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Building+security+tools+in+Go+%26+Python;Automating+recon+pipelines;Finding+bugs+%E2%80%94+one+endpoint+at+a+time;Open+source+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3)](https://github.com/su6osec)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Building+security+tools+in+Go+%26+Python;Automating+recon+pipelines;Finding+bugs+%E2%80%94+one+endpoint+at+a+time;Open+source+%C2%B7+India)](https://github.com/su6osec)
 
 <br/>
 
@@ -18,45 +18,32 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ════════════════════════════════ ABOUT ════════════════════════════════ -->
-
 <br/>
 
-<table width="100%">
-<tr>
-<td valign="middle">
+## About
 
-## 👨‍💻 &nbsp;About Me
-
-Security researcher and open-source tool builder from **India 🇮🇳**, focused on **web application security**, passive recon, and attack surface intelligence.
+Security researcher and open-source tool builder from **India**, focused on **web application security**, passive recon, and attack surface intelligence.
 
 I build high-performance offensive security tools in **Go** and **Python** — fast, modular, and designed for real-world bug bounty workflows with zero bloat.
 
 <br/>
 
 <table>
-  <tr><td>📍</td><td><b>Location</b></td><td>India 🇮🇳</td></tr>
-  <tr><td>🎯</td><td><b>Focus</b></td><td>Web AppSec · Recon Automation · OSINT</td></tr>
-  <tr><td>🧠</td><td><b>Methodology</b></td><td>Recon-first · Passive-heavy · Evidence-driven</td></tr>
-  <tr><td>🔨</td><td><b>Building</b></td><td>phantom — attack surface monitor</td></tr>
-  <tr><td>✍️</td><td><b>Writing</b></td><td><a href="https://su6osec.medium.com">su6osec.medium.com</a></td></tr>
-  <tr><td>🤝</td><td><b>Open to</b></td><td>Collabs · Consulting · Interesting Projects</td></tr>
-</table>
-
-</td>
-</td>
-</tr>
+  <tr><td><b>Location</b></td><td>India</td></tr>
+  <tr><td><b>Focus</b></td><td>Web AppSec · Recon Automation · OSINT</td></tr>
+  <tr><td><b>Methodology</b></td><td>Recon-first · Passive-heavy · Evidence-driven</td></tr>
+  <tr><td><b>Building</b></td><td>phantom — attack surface monitor</td></tr>
+  <tr><td><b>Writing</b></td><td><a href="https://su6osec.medium.com">su6osec.medium.com</a></td></tr>
+  <tr><td><b>Open to</b></td><td>Collabs · Consulting · Interesting Projects</td></tr>
 </table>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ EXPERTISE ════════════════════════════ -->
-
 <br/>
 
-## ⚡ &nbsp;What I Do
+## What I Do
 
 <br/>
 
@@ -66,7 +53,7 @@ I build high-performance offensive security tools in **Go** and **Python** — f
 <td align="center" width="33%" valign="top">
 <br/>
 
-### 🔍 Recon & OSINT
+### Recon & OSINT
 
 Passive subdomain discovery from **40+ sources**, Certificate Transparency log monitoring, and real-time attack surface mapping for bug bounty targets.
 
@@ -76,7 +63,7 @@ Passive subdomain discovery from **40+ sources**, Certificate Transparency log m
 <td align="center" width="33%" valign="top">
 <br/>
 
-### 🔐 Web AppSec
+### Web Application Security
 
 API security, CORS misconfiguration, secrets exposure, JS bundle analysis, security headers grading, and subdomain takeover detection.
 
@@ -86,7 +73,7 @@ API security, CORS misconfiguration, secrets exposure, JS bundle analysis, secur
 <td align="center" width="33%" valign="top">
 <br/>
 
-### 🛠 Tool Engineering
+### Tool Engineering
 
 High-performance CLI tools and daemon monitors in **Go** — interface-based, pipeline-friendly, modular, and built for automation at scale.
 
@@ -100,11 +87,9 @@ High-performance CLI tools and daemon monitors in **Go** — interface-based, pi
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ════════════════════════════════ ACTIVITY ════════════════════════════ -->
-
 <br/>
 
-## 📈 &nbsp;Contribution Activity
+## Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=su6osec&bg_color=0f0f1a&color=818cf8&line=6366f1&point=c7d2fe&area=true&area_color=6366f1&hide_border=false&border_color=6366f1&radius=12" width="100%"/>
 
@@ -118,11 +103,9 @@ High-performance CLI tools and daemon monitors in **Go** — interface-based, pi
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ════════════════════════════════ CONNECT ═════════════════════════════ -->
-
 <br/>
 
-## 🤝 &nbsp;Let's Connect
+## Let's Connect
 
 <br/>
 

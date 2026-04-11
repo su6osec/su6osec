@@ -114,54 +114,6 @@ High-performance CLI tools and daemon monitors in **Go** — interface-based, pi
 
 <br/>
 
-## Trophies
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=su6osec&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## Stats
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=su6osec&theme=tokyonight&border_radius=12&border=6366f1&ring=6366f1&fire=818cf8&currStreakLabel=6366f1&background=0f0f1a&stroke=6366f1&dates=94a3b8&sideLabels=6366f1&currStreakNum=e2e8f0&sideNums=e2e8f0" />
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=su6osec&bg_color=0f0f1a&color=818cf8&line=6366f1&point=c7d2fe&area=true&area_color=6366f1&hide_border=false&border_color=6366f1&radius=12" width="100%"/>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/su6osec/su6osec/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
 ## Let's Connect
 
 <br/>

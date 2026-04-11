@@ -34,16 +34,14 @@ I build high-performance offensive security tools in **Go** and **Python** — f
 
 <br/>
 
-```yaml
-name       : Deepanshu Chauhan
-alias      : su6osec
-location   : India 🇮🇳
-focus      : Web AppSec · Recon Automation · OSINT
-methodology: Recon-first · Passive-heavy · Evidence-driven
-currently  : Building phantom — attack surface monitor
-writing_at : su6osec.medium.com
-open_to    : Collabs · Consulting · Interesting Projects
-```
+<table>
+  <tr><td>📍</td><td><b>Location</b></td><td>India 🇮🇳</td></tr>
+  <tr><td>🎯</td><td><b>Focus</b></td><td>Web AppSec · Recon Automation · OSINT</td></tr>
+  <tr><td>🧠</td><td><b>Methodology</b></td><td>Recon-first · Passive-heavy · Evidence-driven</td></tr>
+  <tr><td>🔨</td><td><b>Building</b></td><td>phantom — attack surface monitor</td></tr>
+  <tr><td>✍️</td><td><b>Writing</b></td><td><a href="https://su6osec.medium.com">su6osec.medium.com</a></td></tr>
+  <tr><td>🤝</td><td><b>Open to</b></td><td>Collabs · Consulting · Interesting Projects</td></tr>
+</table>
 
 </td>
 <td width="44%" valign="middle" align="right">
